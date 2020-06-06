@@ -1,0 +1,32 @@
+# site settings
+title: VarunSaraswathibatla
+subtitle: My personal blogsite
+email: varunsaraswathibatla@gmail.com
+description: My Personal Blogsite. 
+baseurl: ""
+url: # the base hostname & protocol for your site
+author: VarunSaraswathibatla
+
+
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/VarunSaraswathibatla
+
+googleplus_url: 
+instagram_url: https://www.instagram.com/s_.varun/
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
