@@ -4,7 +4,7 @@ title: About Me
 nav-menu: true
 ---
 
-## HI I AM VARUN
+# HI I AM VARUN
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](assets/images/banner.JPG)
 
