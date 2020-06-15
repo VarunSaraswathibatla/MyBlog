@@ -19,4 +19,8 @@ nav-menu: true
 9.Angkor Wat(Cambodia)     
 10.Switzerland       
 11.Maldives        
-12.Costa Rica      
+12.Costa Rica   
+13.Torres del Paine National Park(Patagonia,Chile)         
+14.Banff National Park(Canada)       
+15.Hawaii(USA)
+
