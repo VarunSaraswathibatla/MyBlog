@@ -10,5 +10,5 @@ nav-menu: true
 
 &nbsp;&nbsp;1. The Monk who sold his Ferrari - Robin Sharma   
 &nbsp;&nbsp;2. Five Point Someone - Chetan Bhagat   
-&nbsp;&nbsp;3. The Story of My Experiments With Truth - Mahatma Gandhi   
+&nbsp;&nbsp;3. The Story of My Experiments With Truth - Mahatma &nbsp; Gandhi   
 &nbsp;&nbsp;4. The Bro Code - Barney Stinson(A Character in HIMYM)  
