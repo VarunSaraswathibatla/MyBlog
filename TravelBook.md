@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 # &nbsp; Places I Love to Visit
-
+<pre>
  1. Christ the Redeemer(Brazil)   
  2. Bali      
  3. Mauritius   
@@ -23,4 +23,5 @@ nav-menu: true
  13. Torres del Paine National Park(Patagonia,Chile)         
  14. Banff National Park(Canada)       
  15. Hawaii(USA)
+ </pre>
 
