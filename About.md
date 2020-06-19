@@ -5,7 +5,7 @@ description: My Profile
 nav-menu: true
 ---
 
-# &nbsp;*HI I AM VARUN*
+<h1 style="Font-style:italic;">Hi,I Am Varun &#128512;</h1>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](assets/images/banner.JPG)
 
