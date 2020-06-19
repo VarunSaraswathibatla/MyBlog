@@ -3,7 +3,7 @@ layout: page
 title: My Travel Book
 description: Travelling is Love........
 
-nav-menu: true
+nav-menu: yes
 ---
 
 # &nbsp; Places I Love to Visit
