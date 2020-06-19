@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: <p style="font-style:italic;">Hi,I Am Varun
+landing-title: <p style="font-style:italic;">Hi,I Am Varun</p>
 description: null
 image: null
 author: null
