@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+description: My Profile
 nav-menu: true
 ---
 
