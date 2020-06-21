@@ -6,7 +6,7 @@ description: Travelling is Love........
 nav-menu: true
 ---
 
-# &nbsp; Places I Love to Visit 🛫; 
+# &nbsp; Places I Love to Visit 🛫 
 
  - Christ the Redeemer(Brazil)   
  - Bali      
