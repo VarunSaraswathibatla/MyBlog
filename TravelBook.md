@@ -8,7 +8,7 @@ nav-menu: true
 
 # &nbsp; Places I Love to Visit 🛫 
 
- - Christ the Redeemer(Brazil)   
+ - Rio de Janeiro(Brazil)   
  - Bali      
  - Mauritius   
  - The Great Barrier Reef(Australia)   
@@ -20,7 +20,7 @@ nav-menu: true
  - Switzerland       
  - Maldives        
  - Costa Rica   
- - Torres del Paine National Park(Patagonia,Chile)         
+ - Patagonia(Chile)         
  - Banff National Park(Canada)       
  - Hawaii(USA)         
  
