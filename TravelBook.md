@@ -22,7 +22,8 @@ nav-menu: true
  - Costa Rica   
  - Patagonia(Chile)         
  - Banff National Park(Canada)       
- - Hawaii(USA)         
+ - Hawaii(USA)    
+ - Tokyo (Japan)     
  
  **********        
  
