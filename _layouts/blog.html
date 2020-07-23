@@ -21,7 +21,7 @@
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  <p>{{ post.content | truncatewords: 5}}
 		  <li><a href="{{post.content -}}" class="button">Learn more</a></li>
-		{%- assign _content = _excerpt | append: _link -%}
+		
 	  {% endif %}
           {% endfor %}
 	</div>
